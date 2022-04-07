@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来带我的博客
 
-You can use the [editor on GitHub](https://github.com/w543824850/w543824850.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ 心若计较，处处都有怨言；心若放宽，时刻全是春天。世间不顺心事之八九，能对你千依百顺的人，能让你得偿所愿的事都很少。你若非要计较，没有一个人、一件事能让你满意。人活一世，也就求个心的安稳，何苦跟自己过不去。心宽一寸，路宽一丈。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+人生经历的美很多，走过一年四季，看遍春花秋草，不论你是从繁华处走来，还是在寂静处走来。只要你带着心情，转山转水，经过耐人寻味的过程，美的东西会升华成最美，明暗山水之间，也只有心间能滋生出最美丽的风景，最美丽的风景在心里。
 
 ### Markdown
 
